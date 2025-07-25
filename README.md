@@ -1,2 +1,2 @@
-# netssuite_project03
+# netsuite_project03
 delete 500 saved searches from netsuite
